@@ -18,7 +18,6 @@
 - [Project Overview](#project-overview)
 - [Business Task](#business-task)
 - [Data Sources](#data-sources)
-- [Tools & Methods](#tools--methods)
 - [Project Structure](#project-structure)
 - [Key Findings](#key-findings)
 - [Dashboard](#dashboard)
@@ -70,26 +69,27 @@ The dataset was collected via Amazon Mechanical Turk (03/12/2016 – 05/12/2016)
 
 ---
 ## Project Structure
+```
 bellabeat-case-study/
+├── Data/        ← FitBit Tracker Data csv files
+│   └── dailyActivity_merged.csv
+│   └── hourlyCalories_merged.csv
+│   └── hourlyIntensities_merged.csv
+│   └── hourlySteps_merged.csv
+│   └── sleepDay_merged.csv
 │
 ├── README.md                          ← You are here
 │
-├── notebooks/
-│   └── bellabeat_analysis.ipynb       ← Full Python analysis (6-phase structure)
+├── bellabeat-case-study-capstone-project-python.ipynb        ← Full Python analysis (6-phase structure)
 │
-├── data/
-│   └── FitBit_Fitness_Tracker_Data_Analysis.xlsx   ← Excel analysis file
+├── FitBit_Fitness_Tracker_Data_Analysis.xlsx        ← Excel analysis )
 │
-├── images/
-│   └── dashboard.png                  ← Tableau dashboard screenshot
-│   └── [Python chart exports]
-│
-└── reports/
-    └── bellabeat_summary.md           ← Condensed findings & recommendations
+└── FitBit_Fitness_Tracker_Data_Dashboard        ←     Tableau Dashboard
+```
     
 **Navigate directly:**
-- 📓 [Python Notebook](/bellabeat-case-study-capstone-project-python.ipynb) — Full analysis with inline outputs
-- 📊 [Excel File](/FitBit_Fitness_Tracker_Data_Analysis.xlsx) — Supporting Excel analysis
+- 📓 [Python Notebook](bellabeat-case-study-capstone-project-python.ipynb) — Full analysis with inline outputs
+- 📊 [Excel File](FitBit_Fitness_Tracker_Data_Analysis.xlsx) — Supporting Excel analysis
 - 📈 [Tableau Dashboard](https://public.tableau.com/views/BellaBeatConsumerTrendsDashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) — Interactive visualization
 
 ---
