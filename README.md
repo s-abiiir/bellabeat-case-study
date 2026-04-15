@@ -123,10 +123,9 @@ The interactive Tableau dashboard visualizes four key consumer trend areas:
 - **Average sleep hours per day** — revealing mid-week rest patterns
 - **Minutes of activity per day by intensity level** — sedentary vs. light vs. active breakdowns
 
-![Bellabeat Consumer Trends Dashboard](images/dashboard.png)
+![Bellabeat Consumer Trends Dashboard](FitBit_Fitness_Tracker_Data_Dashboard.png)
 
-> 🔗 **[View the interactive dashboard on Tableau Public →](#)**  
-> *(Replace `#` with your Tableau Public URL after publishing)*
+> 🔗 **[View the interactive dashboard on Tableau Public →](https://public.tableau.com/views/BellaBeatConsumerTrendsDashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)**  
 
 ---
 
