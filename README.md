@@ -79,13 +79,13 @@ bellabeat-case-study/
 │   └── hourlySteps_merged.csv
 │   └── sleepDay_merged.csv
 │
+├── FitBit_Fitness_Tracker_Data_Analysis.xlsx        ← Excel analysis 
+│
+├── FitBit_Fitness_Tracker_Data_Dashboard.png        ← Tableau Dashboard
+│        
 ├── README.md                          ← You are here
 │
-├── bellabeat-case-study-capstone-project-python.ipynb        ← Full Python analysis (6-phase structure)
-│
-├── FitBit_Fitness_Tracker_Data_Analysis.xlsx        ← Excel analysis )
-│
-└── FitBit_Fitness_Tracker_Data_Dashboard        ←     Tableau Dashboard
+└── bellabeat-case-study-capstone-project-python.ipynb        ← Full Python analysis (6-phase structure)
 ```
     
 **Navigate directly:**
