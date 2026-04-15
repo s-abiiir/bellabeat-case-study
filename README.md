@@ -177,7 +177,7 @@ pip install pandas numpy matplotlib seaborn rich jupyter
 
 **Launch the notebook:**
 ```bash
-jupyter notebook notebooks/bellabeat_analysis.ipynb
+jupyter notebook crop-type-classification-using-breizhcrops-dataset.ipynb
 ```
 
 > Note: The original data files should be placed in the path referenced in the notebook, or update the `pd.read_csv()` paths to point to your local copy of the [Kaggle dataset](https://www.kaggle.com/arashnic/fitbit).
