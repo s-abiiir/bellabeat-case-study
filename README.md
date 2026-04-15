@@ -69,11 +69,28 @@ The dataset was collected via Amazon Mechanical Turk (03/12/2016 – 05/12/2016)
 | `sleepDay_merged.csv` | Daily sleep records including total minutes asleep and time in bed |
 
 ---
-
+## Project Structure
+bellabeat-case-study/
+│
+├── README.md                          ← You are here
+│
+├── notebooks/
+│   └── bellabeat_analysis.ipynb       ← Full Python analysis (6-phase structure)
+│
+├── data/
+│   └── FitBit_Fitness_Tracker_Data_Analysis.xlsx   ← Excel analysis file
+│
+├── images/
+│   └── dashboard.png                  ← Tableau dashboard screenshot
+│   └── [Python chart exports]
+│
+└── reports/
+    └── bellabeat_summary.md           ← Condensed findings & recommendations
+    
 **Navigate directly:**
 - 📓 [Python Notebook](/bellabeat-case-study-capstone-project-python.ipynb) — Full analysis with inline outputs
-- 📊 [Excel File](/FitBit_Fitness_Tracker_Data_Analysis.xlsx) — Supporting analysis
-- 📈 [Tableau Dashboard](#dashboard) — Interactive visualization
+- 📊 [Excel File](/FitBit_Fitness_Tracker_Data_Analysis.xlsx) — Supporting Excel analysis
+- 📈 [Tableau Dashboard](https://public.tableau.com/views/BellaBeatConsumerTrendsDashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) — Interactive visualization
 
 ---
 
