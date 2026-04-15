@@ -70,41 +70,9 @@ The dataset was collected via Amazon Mechanical Turk (03/12/2016 – 05/12/2016)
 
 ---
 
-## Tools & Methods
-
-| Phase | Tool | Purpose |
-|---|---|---|
-| Data cleaning & EDA | **Python** (Pandas, NumPy) | Deduplication, type conversion, merging, aggregation |
-| Visualization | **Matplotlib & Seaborn** | Charts for distributions, correlations, and trends |
-| Supporting analysis | **Microsoft Excel** | Pivot tables, supplementary exploration |
-| Dashboard | **Tableau Public** | Interactive consumer trends dashboard |
-
----
-
-## Project Structure
-
-```
-bellabeat-case-study/
-│
-├── README.md                          ← You are here
-│
-├── notebooks/
-│   └── bellabeat_analysis.ipynb       ← Full Python analysis (6-phase structure)
-│
-├── data/
-│   └── FitBit_Fitness_Tracker_Data_Analysis.xlsx   ← Excel analysis file
-│
-├── images/
-│   └── dashboard.png                  ← Tableau dashboard screenshot
-│   └── [Python chart exports]
-│
-└── reports/
-    └── bellabeat_summary.md           ← Condensed findings & recommendations
-```
-
 **Navigate directly:**
-- 📓 [Python Notebook](notebooks/bellabeat_analysis.ipynb) — Full analysis with inline outputs
-- 📊 [Excel File](data/FitBit_Fitness_Tracker_Data_Analysis.xlsx) — Supporting analysis
+- 📓 [Python Notebook](/bellabeat-case-study-capstone-project-python.ipynb) — Full analysis with inline outputs
+- 📊 [Excel File](/FitBit_Fitness_Tracker_Data_Analysis.xlsx) — Supporting analysis
 - 📈 [Tableau Dashboard](#dashboard) — Interactive visualization
 
 ---
