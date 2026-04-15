@@ -71,7 +71,8 @@ The dataset was collected via Amazon Mechanical Turk (03/12/2016 – 05/12/2016)
 ## Project Structure
 ```
 bellabeat-case-study/
-├── Data/        ← FitBit Tracker Data csv files
+│
+├── Data/                            ← FitBit Tracker Data csv files
 │   └── dailyActivity_merged.csv
 │   └── hourlyCalories_merged.csv
 │   └── hourlyIntensities_merged.csv
